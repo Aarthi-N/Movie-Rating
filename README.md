@@ -14,5 +14,4 @@ _MENTOR_: NEELAM SANTOSH
 
 **PROJECT DESCRIPTION**:
 
-This project focuses on analyzing **Rotten Movies Dataset**, which contains information such as movie title, genre, critic consensus, audience rating and tomatometer rating. The main goal is 
-to explore** patterns in film ratings, sentiment in critic reviews, and differences between audience and critic opinions.**
+This project focuses on analyzing **Rotten Movies Dataset**, which contains information such as movie title, genre, critic consensus, audience rating and tomatometer rating. The main goal is to explore** patterns in film ratings, sentiment in critic reviews, and differences between audience and critic opinions**.
