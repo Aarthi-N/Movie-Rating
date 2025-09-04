@@ -18,15 +18,15 @@ This project focuses on analyzing **Rotten Movies Dataset**, which contains info
 
 **TOOLS AND TECHNOLOGIES USED**:
 
-* **Python** - core programming language used for data analysis.\
-* **Pandas** - For data cleaning, manipulation, handling missing values, grouping and aggregation.\
-* **Matplotlib** - For creating data visualizations such as bar chart, pie chart and stacked bar plots.\
-* **NLTK(Natural Language Toolkit)** - For text preprocessing, stopword removal and sentiment lexicons.\
+* **Python** - core programming language used for data analysis.
+* **Pandas** - For data cleaning, manipulation, handling missing values, grouping and aggregation.
+* **Matplotlib** - For creating data visualizations such as bar chart, pie chart and stacked bar plots.
+* **NLTK(Natural Language Toolkit)** - For text preprocessing, stopword removal and sentiment lexicons.
 * **VADER Sentiment Analyzer (from NLTK)** - To classify critics consensus into positive, negative and neutral sentiments.
 
 **PLATFORM USED**:
 
-* The analysis was performed in a **jupyter notebook (.ipynb)** environment.\
+* The analysis was performed in a **jupyter notebook (.ipynb)** environment.
 * Executed on **Google Colab**, which provides interactive environment for combining python code, outputs and visualizations.
 
 **KEY STEPS IN THE PROJECT:**
@@ -67,5 +67,6 @@ The project provided insights into:
   * Which **genres** receive the most positive and negative reviews.
   * How **audience and critics opinions diverge**.
   * What type of **language critics use most frequently** in their consensus.
-  * Which **studios** tend to produce higher rated films.\
-  This analysis demonstrates how **data science + NLP techniques** can be applied to movie review data for understanding industry patterns and audience-critic dynamics.
+  * Which **studios** tend to produce higher rated films.
+
+This analysis demonstrates how **data science + NLP techniques** can be applied to movie review data for understanding industry patterns and audience-critic dynamics.
