@@ -48,3 +48,24 @@ This project focuses on analyzing **Rotten Movies Dataset**, which contains info
    * Computed discrepancies between **Tomatometer** and **Audience** ratings.
    * Identified movies with the **largest disagreements** (critics loved but audiences didn't and vice-versa).
    * Created plots to visualize critic vs audience alignment.
+
+4. **NLP Analysis on Critics Consensus**:
+
+   * Preprocessed critic consensus text (tokenization, stopword removal, cleaning).
+   * Extracted most frequently used words by critics.
+   * Applied VADER Sentiment Analysis to classify critic reviews as Positive, Negative or Neutral.
+
+5. **Genre-wise Sentiment Trends**:
+
+   * Grouped movies by **primary genre** and aggregated sentiment labels.
+   * Computed % Positive and % Negative reviews per genre.
+   * Visualized using a **stacked bar chart** to show sentiment distribution across genres.
+
+**OUTCOME**:
+
+The project provided insights into:\
+  * Which **genres** receive the most positive and negative reviews.\
+  * How **audience and critics opinions diverge**.\
+  * What type of **language critics use most frequently** in their consensus.\
+  * Which **studios** tend to produce higher rated films.\
+  This analysis demonstrates how **data science + NLP techniques** can be applied to movie review data for understanding industry patterns and audience-critic dynamics.
