@@ -63,9 +63,9 @@ This project focuses on analyzing **Rotten Movies Dataset**, which contains info
 
 **OUTCOME**:
 
-The project provided insights into:\
-  * Which **genres** receive the most positive and negative reviews.\
-  * How **audience and critics opinions diverge**.\
-  * What type of **language critics use most frequently** in their consensus.\
+The project provided insights into:
+  * Which **genres** receive the most positive and negative reviews.
+  * How **audience and critics opinions diverge**.
+  * What type of **language critics use most frequently** in their consensus.
   * Which **studios** tend to produce higher rated films.\
   This analysis demonstrates how **data science + NLP techniques** can be applied to movie review data for understanding industry patterns and audience-critic dynamics.
